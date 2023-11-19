@@ -1,7 +1,7 @@
 
 import React from 'react'
 import { BaseApp } from '../core/BaseApp'
-import img  from '../asset/notes images.png'
+
 
 
 
