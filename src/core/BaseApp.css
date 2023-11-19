@@ -1,0 +1,42 @@
+.App {
+    text-align: center;
+  }
+
+
+  .nav{
+    display: flex;
+    background-color: rgb(118, 87, 135);
+    justify-content: space-between;
+  }
+  .nav h1{
+    margin: 10px;
+  }
+  .btn-group{
+    display: flex;
+    width: 500px;
+    
+
+  }
+  .btn-group Button{
+    width: 100px;
+    margin: 10px;
+    
+  }
+
+ 
+
+  .all_page{
+    background-color: aquamarine;
+    height: 200vh;
+  }
+  .title{
+    height: 30px;
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(208, 123, 20);
+    border: 1px solid black;
+    font-size: larger;
+    font-weight: bolder;
+    color: whitesmoke;
+  }
+  
